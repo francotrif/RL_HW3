@@ -39,7 +39,7 @@ publications:
 
 ```
 
-(Alternatively, use the updated `dds_topics.yaml` file provided in this repository.)
+*Alternatively, use the updated `dds_topics.yaml` file provided in this repository.*
 
 ## ✅ Usage
 
